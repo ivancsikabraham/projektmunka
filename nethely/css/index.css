@@ -1,16 +1,26 @@
-/*!
-  * SzabĂł Szabolcs
-  * index.css
-  */
-
-  fakeimg {
-    height: 200px;
+.fakeimg {
+    height: 1px;
     background: #eee;
-	}
-
-#h1
+    
+}
+.pfp{
+  height: 300px;
+}
+#h1 {
 text-align: center
-	
+}
 
+#progit{
+  width: 700px;
+  height: 900px;
+  margin: auto;
+}
 
-	
+.kozep{
+  text-align: center;
+}
+
+.videok{
+  float:left;
+  margin-right:20px;
+}
