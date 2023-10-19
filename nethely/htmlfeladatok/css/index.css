@@ -43,3 +43,6 @@ tr:nth-child(even) {
 a:link {
   color: black;
 }
+a:visited {
+  color: black;
+}
